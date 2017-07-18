@@ -11,7 +11,7 @@
     * Joystick mount: 75MM x 75MM
 
 ## Audio options
-* [Logitech Z200](https://www.amazon.com/dp/B00EZ9XKCM/?tag=pcpapi-20): These are well-regarded, but no subwoofer (don't know if we care; $20/each)
+* [Logitech Z200](https://www.amazon.com/dp/B00EZ9XKCM/?tag=pcpapi-20): These are well-regarded, but no subwoofer (don't know if we care; $33)
 
 ## Useful guides:
 * [Arcade Emulation with RetroPie](https://github.com/retropie/retropie-setup/wiki/Arcade)
